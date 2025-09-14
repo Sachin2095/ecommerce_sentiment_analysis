@@ -19,24 +19,48 @@ A modern, Interactive User Interface , can classify sentiment of E-commerce webs
 
 ``` 
 ecommerce_sentiment_analysis/
-├── data/              # Trained model files
-│   ├── balanced
-│   └── cleaned
-         # Main Streamlit application
-├── dashboard.py          # Dashboard component class
-├── utils.py              # Utility functions and helpers
-├── config.py 
-├── app.py                 # Main Streamlit application
-├── dashboard.py          # Dashboard component class
-├── utils.py              # Utility functions and helpers
-├── config.py             # Configuration and constants
-├── requirements.txt      # Python dependencies
-├── README.md            # This file
-├── models/              # Trained model files
-│   ├── random_forest_fraud.pkl
-│   └── logistic_regression_fraud.pkl
-└── data/                # Data files (optional)
-    └── creditcard.csv
+├── data/      
+    ├── cleaned/        # data files 
+│   ├── cleaned/
+|   ├── preprocessed/
+|   └── raw /
+├── embedding_model/    # embedding of count vectorizer from naive_bayes_classifier notebook  
+|   
+├── error_handling/       
+|
+├── logs/User Log.log
+|
+├── mlartifacts/0/models/           
+├── mlruns/             
+|
+├── notebooks/
+|    └── data_cleaning.ipynb
+|
+├── requirements.txt    
+|
+├── static/style.css   
+├── templates/index.html   
+|
+├── test/test.py  
+|
+├── .gitignore  
+|
+├── app.py 
+|
+├── train/
+|    ├── Naive_Bayes_Classifier.ipynb
+|    └── Xboost_tuned.ipynb
+|
+├── scripts/
+|    ├── data_preprocessing.ipynb
+|    └── data_Scraping.py
+|    
+├── pipeline/              
+│   └── process.py
+|
+└── visulizations/     
+    ├── beforeVsAfter.png            
+    └── user_interface.png
 
 ```
 
