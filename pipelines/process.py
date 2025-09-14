@@ -1,6 +1,8 @@
 from scripts.data_preprocessing import CleanReview
 import pickle
 import logging 
+import os 
+os.chdir('/Ecommerce Sentiment Analysis')
 # basic Structure of Logging
 file_name="User logs"
 logging.basicConfig(
