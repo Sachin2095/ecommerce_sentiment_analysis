@@ -1,4 +1,7 @@
 import pytest
+import sys, os
+# Ensure project root is in PYTHONPATH so imports work
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from app import app
 from pipelines.process import AnalysisText  # if you want to directly test your text analysis logic
 
