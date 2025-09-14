@@ -51,7 +51,8 @@ def AnalysisText(text):
            return 'The review is Negative.This product needs to be removed .'       
        else :
            return 'The  review is Ok. This product is still needs some improvements.'
-    except:
-        raise "something went wrong"
+    except Exception as e:
+        logging.error(f"Error in AnalysisText: {str(e)}")
+        raise RuntimeError("something went wrong") from e
     
 
