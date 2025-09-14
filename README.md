@@ -4,7 +4,7 @@ A modern, Interactive User Interface , can classify sentiment of E-commerce webs
 
 
 ## 🚀Web App Preview
-![UI Screenshot](ecommerce_sentiment_analysis/visualizations/user_interface.png)
+![UI Screenshot](visualizations/user_interface.png)
 
 
 ## TechStacks
@@ -130,7 +130,7 @@ Modify the CSS in `app.py` to customize:
 - how to handle memory limit. 
 - how to create github workflows.
 - How to improved accuracy by 15%. 
-![UI Screenshot](ecommerce_sentiment_analysis/visualizations/beforeVsAfter.png)
+![UI Screenshot](visualizations/beforeVsAfter.png)
 
 
 
