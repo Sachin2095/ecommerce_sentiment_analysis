@@ -38,7 +38,7 @@ def AnalysisText(text):
 
        # import the model 
        logging.info("model is loading .")
-       with open("mlartifacts\\0\\models\\m-932c78f239a24b209319539074b9a024\\artifacts\\model.pkl", "rb") as f:
+       with open("mlartifacts/0/models/m-932c78f239a24b209319539074b9a024/artifacts/model.pkl", "rb") as f:
            model = pickle.load(f)       
        
        # make predicts 
