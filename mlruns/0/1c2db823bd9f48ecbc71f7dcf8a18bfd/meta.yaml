@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1c2db823bd9f48ecbc71f7dcf8a18bfd/artifacts
+end_time: 1757780172695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c2db823bd9f48ecbc71f7dcf8a18bfd
+run_name: worried-kit-441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757780167840
+status: 3
+tags: []
+user_id: Sachin

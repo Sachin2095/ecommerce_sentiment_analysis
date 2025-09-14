@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/0/models/m-932c78f239a24b209319539074b9a024/artifacts
+creation_timestamp: 1757793747626
+experiment_id: '0'
+last_updated_timestamp: 1757793783201
+model_id: m-932c78f239a24b209319539074b9a024
+model_type: ''
+name: Adding more data
+source_run_id: c816e2d795524b229680393e1ff59c98
+status: 2
+status_message: null

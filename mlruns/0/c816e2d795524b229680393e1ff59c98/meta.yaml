@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c816e2d795524b229680393e1ff59c98/artifacts
+end_time: 1757793783402
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c816e2d795524b229680393e1ff59c98
+run_name: redolent-eel-55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757793746870
+status: 3
+tags: []
+user_id: Sachin

@@ -1,0 +1,18 @@
+aliases: []
+creation_timestamp: 1757770413915
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1757770413915
+metrics: null
+model_id: m-b79aa38f57dd47119698e53a0fe2947b
+name: Naive bayes Classifier
+params: null
+run_id: 5275a54cdc3f4493a820f4d6aad09d32
+run_link: ''
+source: models:/m-b79aa38f57dd47119698e53a0fe2947b
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/0/models/m-b79aa38f57dd47119698e53a0fe2947b/artifacts
+user_id: null
+version: 1

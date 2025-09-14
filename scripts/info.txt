@@ -1,0 +1,18 @@
+<============================ Flow of data scraping from amazon website ==========================================================================>
+
+
+amazon_top_products = [
+    {"category": "Electronics", "products": ["iPhone", "Laptop"]},
+    {"category": "Mobiles & Accessories", "products": ["AirPods", "Apple Watch"]},
+    {"category": "Books / Reading", "products": ["Kindle", "Harry Potter Series"]},
+    {"category": "Gaming Consoles", "products": ["Nintendo Switch", "PlayStation 5 (PS5)"]},
+    {"category": "Home & Kitchen", "products": ["Coffee", "Water Bottle"]},
+    {"category": "Toys & Games", "products": ["Lego", "Barbie Doll"]},
+    {"category": "Fashion (Clothing & Shoes)", "products": ["Crocs", "Sneakers"]},
+    {"category": "Beauty & Personal Care", "products": ["Makeup Kit", "Hair Dryer"]},
+    {"category": "Appliances", "products": ["Smart TV", "Refrigerator"]},
+    {"category": "Stationery & Office", "products": ["Desk", "Monitor"]}
+]
+
+for example 
+I put Iphone in search box this will give me one of product

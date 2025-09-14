@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/0/models/m-0c548406c948434d9abcb94734609bfa/artifacts
+creation_timestamp: 1757780168236
+experiment_id: '0'
+last_updated_timestamp: 1757780172529
+model_id: m-0c548406c948434d9abcb94734609bfa
+model_type: ''
+name: Sentiment Analysis Model
+source_run_id: 1c2db823bd9f48ecbc71f7dcf8a18bfd
+status: 2
+status_message: null

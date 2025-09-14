@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/0/models/m-9564b2974cbb46f188fd4217d04178d4/artifacts
+creation_timestamp: 1757781603565
+experiment_id: '0'
+last_updated_timestamp: 1757781607677
+model_id: m-9564b2974cbb46f188fd4217d04178d4
+model_type: ''
+name: dapper-calf-716
+source_run_id: 5d4a40228c164eb3be202a1af61c146a
+status: 2
+status_message: null

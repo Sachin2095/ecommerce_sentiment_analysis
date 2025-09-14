@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/0/models/m-4322d90013c445c49c0568695c065476/artifacts
+creation_timestamp: 1757781366742
+experiment_id: '0'
+last_updated_timestamp: 1757781371248
+model_id: m-4322d90013c445c49c0568695c065476
+model_type: ''
+name: fortunate-zebra-169
+source_run_id: fffd4682c1ab4769bf67e3c5379a3320
+status: 2
+status_message: null

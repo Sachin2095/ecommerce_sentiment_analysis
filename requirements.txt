@@ -1,0 +1,15 @@
+ipykernel
+pandas 
+selenium 
+numpy 
+matplotlib 
+seaborn 
+nltk
+scikit-learn
+mlflow
+uvicorn
+keras 
+tensorflow
+Flask
+imbalanced-learn
+xgboost

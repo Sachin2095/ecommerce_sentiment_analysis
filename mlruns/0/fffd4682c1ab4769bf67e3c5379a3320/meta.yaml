@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fffd4682c1ab4769bf67e3c5379a3320/artifacts
+end_time: 1757781371506
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fffd4682c1ab4769bf67e3c5379a3320
+run_name: capricious-midge-666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757781366351
+status: 3
+tags: []
+user_id: Sachin
