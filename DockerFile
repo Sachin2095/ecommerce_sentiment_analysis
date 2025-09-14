@@ -4,14 +4,16 @@ FROM python:3.10.6
 # Set the working directory
 WORKDIR /app
 
+# Copy requriments and install dependecises
+COPY requirements.txt .
+
+## Install any needed packages specified in requirements.txt
+
+RUN pip install -r requirements.txt
 
 ## Copy the currect directory content into the container at  /app
 COPY . .
 
-
-## Install any needed packages specified in requirements.txt
-
-RUN pip install -r requirements
 
 
 ## MAke port 8000 available to the world outside this container
