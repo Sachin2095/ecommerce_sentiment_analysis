@@ -2,7 +2,7 @@ from scripts.data_preprocessing import CleanReview
 import pickle
 import logging 
 import os 
-os.chdir('/Ecommerce Sentiment Analysis')
+os.chdir('/')
 # basic Structure of Logging
 file_name="User logs"
 logging.basicConfig(
@@ -57,4 +57,3 @@ def AnalysisText(text):
         logging.error(f"Error in AnalysisText: {str(e)}")
         raise RuntimeError("something went wrong") from e
     
-
