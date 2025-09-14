@@ -19,7 +19,7 @@ def test_sentiment_prediction():
     client = app.test_client()
     sample_review = {"review": "The product is excellent!"}
 
-    response = client.post('/predict', json=sample_review)
+    response = client.post('/', json=sample_review)
     assert response.status_code == 200
 
     data = response.get_json()
