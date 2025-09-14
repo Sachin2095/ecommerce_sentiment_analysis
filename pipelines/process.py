@@ -1,8 +1,24 @@
 from scripts.data_preprocessing import CleanReview
 import pickle
 import logging 
-import os 
-os.chdir('/')
+import os
+
+# Path of the current file (e.g. pipelines/process.py)
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# Repo root = go up 1 or 2 levels depending on where your file is
+ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, ".."))
+
+# Now construct the path from root
+model_path = os.path.join(
+    ROOT_DIR,
+    "mlartifacts",
+    "0",
+    "models",
+    "m-932c78f239a24b209319539074b9a024",
+    "artifacts",
+    "model.pkl"
+)
 # basic Structure of Logging
 file_name="User logs"
 logging.basicConfig(
@@ -38,7 +54,7 @@ def AnalysisText(text):
 
        # import the model 
        logging.info("model is loading .")
-       with open("mlartifacts/0/models/m-932c78f239a24b209319539074b9a024/artifacts/model.pkl", "rb") as f:
+       with open(model_path, "rb") as f:
            model = pickle.load(f)       
        
        # make predicts 

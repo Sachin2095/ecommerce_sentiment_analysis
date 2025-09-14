@@ -463,3 +463,27 @@
 2025-09-14 11:28:49,903-INFO-Predict is Ready .
 2025-09-14 11:28:49,904-INFO-127.0.0.1 - - [14/Sep/2025 11:28:49] "POST / HTTP/1.1" 200 -
 2025-09-14 11:28:49,920-INFO-127.0.0.1 - - [14/Sep/2025 11:28:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-14 16:01:56,955-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-09-14 16:01:56,955-INFO-[33mPress CTRL+C to quit[0m
+2025-09-14 16:01:56,962-INFO- * Restarting with stat
+2025-09-14 16:02:01,614-WARNING- * Debugger is active!
+2025-09-14 16:02:01,626-INFO- * Debugger PIN: 115-873-735
+2025-09-14 16:02:02,028-INFO-127.0.0.1 - - [14/Sep/2025 16:02:02] "GET / HTTP/1.1" 200 -
+2025-09-14 16:02:02,243-INFO-127.0.0.1 - - [14/Sep/2025 16:02:02] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-14 16:02:02,275-INFO-127.0.0.1 - - [14/Sep/2025 16:02:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-14 16:02:09,573-INFO-the given review is good product .
+2025-09-14 16:02:09,573-INFO-Processing has started
+2025-09-14 16:02:09,573-INFO-clean html has completed
+2025-09-14 16:02:09,575-INFO-text has been converted into lower case 
+2025-09-14 16:02:09,575-INFO-Special charactors has been removed
+2025-09-14 16:02:09,620-INFO-Stopwords has been removed
+2025-09-14 16:02:09,621-INFO-Stemmetization has been done.
+2025-09-14 16:02:09,621-INFO-Text has been joined back
+2025-09-14 16:02:09,626-INFO-Emojis has been removed.
+2025-09-14 16:02:09,626-INFO-Preprocessing has been ended.
+2025-09-14 16:02:09,626-INFO-model is loading .
+2025-09-14 16:02:09,775-INFO-Model is making predictions
+2025-09-14 16:02:09,775-INFO-Predict is Ready .
+2025-09-14 16:02:09,787-INFO-127.0.0.1 - - [14/Sep/2025 16:02:09] "POST / HTTP/1.1" 200 -
+2025-09-14 16:02:09,810-INFO-127.0.0.1 - - [14/Sep/2025 16:02:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
