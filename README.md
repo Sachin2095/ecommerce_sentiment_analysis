@@ -37,6 +37,8 @@ ecommerce_sentiment_analysis/
 |    └── data_cleaning.ipynb
 |
 ├── requirements.txt    
+├── DockerFile
+├── .github/workflows/cicd.yaml
 |
 ├── static/style.css   
 ├── templates/index.html   

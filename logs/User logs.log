@@ -334,3 +334,132 @@
 2025-09-14 02:22:28,455-INFO-Predict is Ready .
 2025-09-14 02:22:28,457-INFO-127.0.0.1 - - [14/Sep/2025 02:22:28] "POST / HTTP/1.1" 200 -
 2025-09-14 02:22:28,465-INFO-127.0.0.1 - - [14/Sep/2025 02:22:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-14 11:25:03,318-INFO-[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:8000
+2025-09-14 11:25:03,318-INFO-[33mPress CTRL+C to quit[0m
+2025-09-14 11:25:03,324-INFO- * Restarting with stat
+2025-09-14 11:25:07,898-WARNING- * Debugger is active!
+2025-09-14 11:25:07,898-INFO- * Debugger PIN: 115-873-735
+2025-09-14 11:25:15,167-INFO-127.0.0.1 - - [14/Sep/2025 11:25:15] "GET / HTTP/1.1" 200 -
+2025-09-14 11:25:15,276-INFO-127.0.0.1 - - [14/Sep/2025 11:25:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-14 11:25:15,322-INFO-127.0.0.1 - - [14/Sep/2025 11:25:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-09-14 11:25:56,167-INFO-the given review is this is a good product. .
+2025-09-14 11:25:56,167-INFO-Processing has started
+2025-09-14 11:25:56,168-INFO-clean html has completed
+2025-09-14 11:25:56,168-INFO-text has been converted into lower case 
+2025-09-14 11:25:56,168-INFO-Special charactors has been removed
+2025-09-14 11:25:56,179-INFO-Stopwords has been removed
+2025-09-14 11:25:56,179-INFO-Stemmetization has been done.
+2025-09-14 11:25:56,179-INFO-Text has been joined back
+2025-09-14 11:25:56,193-INFO-Emojis has been removed.
+2025-09-14 11:25:56,194-INFO-Preprocessing has been ended.
+2025-09-14 11:25:56,194-INFO-model is loading .
+2025-09-14 11:25:56,252-INFO-Model is making predictions
+2025-09-14 11:25:56,252-INFO-Predict is Ready .
+2025-09-14 11:25:56,256-INFO-127.0.0.1 - - [14/Sep/2025 11:25:56] "POST / HTTP/1.1" 200 -
+2025-09-14 11:25:56,273-INFO-127.0.0.1 - - [14/Sep/2025 11:25:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-14 11:26:17,627-INFO-the given review is The worst product , I bought in my life . .
+2025-09-14 11:26:17,627-INFO-Processing has started
+2025-09-14 11:26:17,632-INFO-clean html has completed
+2025-09-14 11:26:17,632-INFO-text has been converted into lower case 
+2025-09-14 11:26:17,632-INFO-Special charactors has been removed
+2025-09-14 11:26:17,636-INFO-Stopwords has been removed
+2025-09-14 11:26:17,636-INFO-Stemmetization has been done.
+2025-09-14 11:26:17,636-INFO-Text has been joined back
+2025-09-14 11:26:17,638-INFO-Emojis has been removed.
+2025-09-14 11:26:17,638-INFO-Preprocessing has been ended.
+2025-09-14 11:26:17,638-INFO-model is loading .
+2025-09-14 11:26:17,652-INFO-Model is making predictions
+2025-09-14 11:26:17,652-INFO-Predict is Ready .
+2025-09-14 11:26:17,652-INFO-127.0.0.1 - - [14/Sep/2025 11:26:17] "POST / HTTP/1.1" 200 -
+2025-09-14 11:26:17,682-INFO-127.0.0.1 - - [14/Sep/2025 11:26:17] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-14 11:26:38,010-INFO-the given review is THis is good , but not good for daily use. .
+2025-09-14 11:26:38,012-INFO-Processing has started
+2025-09-14 11:26:38,012-INFO-clean html has completed
+2025-09-14 11:26:38,012-INFO-text has been converted into lower case 
+2025-09-14 11:26:38,012-INFO-Special charactors has been removed
+2025-09-14 11:26:38,012-INFO-Stopwords has been removed
+2025-09-14 11:26:38,012-INFO-Stemmetization has been done.
+2025-09-14 11:26:38,012-INFO-Text has been joined back
+2025-09-14 11:26:38,012-INFO-Emojis has been removed.
+2025-09-14 11:26:38,012-INFO-Preprocessing has been ended.
+2025-09-14 11:26:38,021-INFO-model is loading .
+2025-09-14 11:26:38,028-INFO-Model is making predictions
+2025-09-14 11:26:38,028-INFO-Predict is Ready .
+2025-09-14 11:26:38,039-INFO-127.0.0.1 - - [14/Sep/2025 11:26:38] "POST / HTTP/1.1" 200 -
+2025-09-14 11:26:38,055-INFO-127.0.0.1 - - [14/Sep/2025 11:26:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-14 11:27:14,521-INFO-the given review is this product is good , but battery life is worst. .
+2025-09-14 11:27:14,521-INFO-Processing has started
+2025-09-14 11:27:14,522-INFO-clean html has completed
+2025-09-14 11:27:14,522-INFO-text has been converted into lower case 
+2025-09-14 11:27:14,523-INFO-Special charactors has been removed
+2025-09-14 11:27:14,523-INFO-Stopwords has been removed
+2025-09-14 11:27:14,523-INFO-Stemmetization has been done.
+2025-09-14 11:27:14,523-INFO-Text has been joined back
+2025-09-14 11:27:14,523-INFO-Emojis has been removed.
+2025-09-14 11:27:14,523-INFO-Preprocessing has been ended.
+2025-09-14 11:27:14,523-INFO-model is loading .
+2025-09-14 11:27:14,544-INFO-Model is making predictions
+2025-09-14 11:27:14,551-INFO-Predict is Ready .
+2025-09-14 11:27:14,555-INFO-127.0.0.1 - - [14/Sep/2025 11:27:14] "POST / HTTP/1.1" 200 -
+2025-09-14 11:27:14,576-INFO-127.0.0.1 - - [14/Sep/2025 11:27:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-14 11:27:55,345-INFO-the given review is This product is good, but sometimes it does not work. .
+2025-09-14 11:27:55,345-INFO-Processing has started
+2025-09-14 11:27:55,347-INFO-clean html has completed
+2025-09-14 11:27:55,347-INFO-text has been converted into lower case 
+2025-09-14 11:27:55,347-INFO-Special charactors has been removed
+2025-09-14 11:27:55,349-INFO-Stopwords has been removed
+2025-09-14 11:27:55,352-INFO-Stemmetization has been done.
+2025-09-14 11:27:55,352-INFO-Text has been joined back
+2025-09-14 11:27:55,352-INFO-Emojis has been removed.
+2025-09-14 11:27:55,352-INFO-Preprocessing has been ended.
+2025-09-14 11:27:55,352-INFO-model is loading .
+2025-09-14 11:27:55,361-INFO-Model is making predictions
+2025-09-14 11:27:55,365-INFO-Predict is Ready .
+2025-09-14 11:27:55,366-INFO-127.0.0.1 - - [14/Sep/2025 11:27:55] "POST / HTTP/1.1" 200 -
+2025-09-14 11:27:55,367-INFO-127.0.0.1 - - [14/Sep/2025 11:27:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-14 11:28:15,418-INFO-the given review is this is not a good product. .
+2025-09-14 11:28:15,418-INFO-Processing has started
+2025-09-14 11:28:15,418-INFO-clean html has completed
+2025-09-14 11:28:15,418-INFO-text has been converted into lower case 
+2025-09-14 11:28:15,420-INFO-Special charactors has been removed
+2025-09-14 11:28:15,425-INFO-Stopwords has been removed
+2025-09-14 11:28:15,425-INFO-Stemmetization has been done.
+2025-09-14 11:28:15,425-INFO-Text has been joined back
+2025-09-14 11:28:15,425-INFO-Emojis has been removed.
+2025-09-14 11:28:15,428-INFO-Preprocessing has been ended.
+2025-09-14 11:28:15,428-INFO-model is loading .
+2025-09-14 11:28:15,455-INFO-Model is making predictions
+2025-09-14 11:28:15,458-INFO-Predict is Ready .
+2025-09-14 11:28:15,461-INFO-127.0.0.1 - - [14/Sep/2025 11:28:15] "POST / HTTP/1.1" 200 -
+2025-09-14 11:28:15,486-INFO-127.0.0.1 - - [14/Sep/2025 11:28:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-14 11:28:29,638-INFO-the given review is this is good , but do not use daily. .
+2025-09-14 11:28:29,638-INFO-Processing has started
+2025-09-14 11:28:29,638-INFO-clean html has completed
+2025-09-14 11:28:29,638-INFO-text has been converted into lower case 
+2025-09-14 11:28:29,638-INFO-Special charactors has been removed
+2025-09-14 11:28:29,648-INFO-Stopwords has been removed
+2025-09-14 11:28:29,648-INFO-Stemmetization has been done.
+2025-09-14 11:28:29,648-INFO-Text has been joined back
+2025-09-14 11:28:29,648-INFO-Emojis has been removed.
+2025-09-14 11:28:29,648-INFO-Preprocessing has been ended.
+2025-09-14 11:28:29,648-INFO-model is loading .
+2025-09-14 11:28:29,669-INFO-Model is making predictions
+2025-09-14 11:28:29,670-INFO-Predict is Ready .
+2025-09-14 11:28:29,673-INFO-127.0.0.1 - - [14/Sep/2025 11:28:29] "POST / HTTP/1.1" 200 -
+2025-09-14 11:28:29,692-INFO-127.0.0.1 - - [14/Sep/2025 11:28:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2025-09-14 11:28:49,874-INFO-the given review is this product is good , but do not use daily. .
+2025-09-14 11:28:49,874-INFO-Processing has started
+2025-09-14 11:28:49,874-INFO-clean html has completed
+2025-09-14 11:28:49,874-INFO-text has been converted into lower case 
+2025-09-14 11:28:49,874-INFO-Special charactors has been removed
+2025-09-14 11:28:49,883-INFO-Stopwords has been removed
+2025-09-14 11:28:49,883-INFO-Stemmetization has been done.
+2025-09-14 11:28:49,884-INFO-Text has been joined back
+2025-09-14 11:28:49,884-INFO-Emojis has been removed.
+2025-09-14 11:28:49,884-INFO-Preprocessing has been ended.
+2025-09-14 11:28:49,884-INFO-model is loading .
+2025-09-14 11:28:49,901-INFO-Model is making predictions
+2025-09-14 11:28:49,903-INFO-Predict is Ready .
+2025-09-14 11:28:49,904-INFO-127.0.0.1 - - [14/Sep/2025 11:28:49] "POST / HTTP/1.1" 200 -
+2025-09-14 11:28:49,920-INFO-127.0.0.1 - - [14/Sep/2025 11:28:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -

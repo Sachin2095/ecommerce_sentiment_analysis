@@ -13,3 +13,4 @@ tensorflow
 Flask
 imbalanced-learn
 xgboost
+pytest
